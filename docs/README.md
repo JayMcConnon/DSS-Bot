@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/DSS-BOT-LARGE.PNG
-tagline: Docs for DSS-Bot
+tagline: Get help with using DSS-bot and it's features.
 actionText: Quick Start →
 actionLink: /guide/
 features:
