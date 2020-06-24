@@ -40,6 +40,10 @@ module.exports = {
         link: 'https://discordapp.com/oauth2/authorize?client_id=720731226977075281&scope=bot&permissions=8',
       },
       {
+        text: 'Guide',
+        link: '/guide/',
+      },
+      {
         text: 'Supported Games',
         link: '/supported/'
       },

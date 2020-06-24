@@ -4,7 +4,7 @@ sidebar: auto
 
 # Supported Games
 
-## Games
+## Games and Voice Servers List
 
 | Shortcode | Name | Notes
 |---|---|---
@@ -275,7 +275,7 @@ sidebar: auto
 | `zombiemaster` | Zombie Master
 | `zps`      | Zombie Panic: Source
 
-Games with Additional Notes
+Games and servers with Additional Notes
 ---
 
 ### <a name="csgo"></a>Counter-Strike: Global Offensive
