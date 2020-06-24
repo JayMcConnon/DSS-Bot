@@ -1,15 +1,15 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: /images/DSS-BOT-LARGE.PNG
 tagline: Docs for DSS-Bot
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Over 250 games and voice servers
+  details: Check the supported page to check if your game is supported!
+- title: General Moderation Commands
+  details: Kick, prune, ban. Saves allot of time moderating your server
+- title: Active developer
+  details: Join the discord channel to get support with the bot and its features.Also request any new features in the issues page or on the discord.
 footer: Made by James McConnon with ❤️
 ---
