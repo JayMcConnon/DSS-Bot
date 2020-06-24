@@ -4,9 +4,9 @@ lang: en-US
 sidebar: auto
 ---
 
-# Installation
+# Quick Start
 
-::: tip Quick Start 
+::: tip Not long now!
 Getting started with DSS-Bot is easy and you can be up
 and running in no 1 minute or less!
 :::
