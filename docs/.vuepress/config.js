@@ -27,37 +27,28 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'JayMcConnon/DSS-Bot',
     editLinks: false,
-    docsDir: '',
+    docsDir: 'docs',
     editLinkText: '',
+    displayAllHeaders: true,
     lastUpdated: true,
+    smoothScroll: true,
     nav: [
       {
         text: 'Install',
         link: 'https://discordapp.com/oauth2/authorize?client_id=720731226977075281&scope=bot&permissions=8',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Supported Games',
+        link: '/supported/'
       },
       {
         text: 'Official Discord',
         link: 'https://discord.gg/J3ufCA2'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+    sidebar: {},
   },
 
   /**
@@ -66,5 +57,5 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-  ]
+  ],
 }
