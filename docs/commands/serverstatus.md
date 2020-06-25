@@ -41,7 +41,8 @@ port configured in the game/voice server.
     ::: warning Note
     This is not the same as the title of your server (DSS Bot will get this for you)
     :::
-    - `type` - Refer to the [supported](/supported/) page for more info or use the [!supported](/commands/general.html#supported) 
+    - `type` - Refer to the [supported](/supported/) page for the `Shortcode` for the game you want.
+    For more info or use the [!supported](/commands/general.html#supported) 
     command in DM to the bot in discord.
     - `IP Address` - IP address of the game or voice server
     - `port` - Port number you use to connect to the server (This will be optional in future)
