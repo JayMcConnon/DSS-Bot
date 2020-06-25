@@ -37,6 +37,10 @@ module.exports = {
     logo: '/images/robot.png',
     nav: [
       {
+        text: 'Homepage',
+        link: 'https://dss-bot.tech',
+      },
+      {
         text: 'Install',
         link: 'https://discordapp.com/oauth2/authorize?client_id=720731226977075281&scope=bot&permissions=8',
       },
