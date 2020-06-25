@@ -1,4 +1,4 @@
-# Commands
+# Command Groups
 
 ## General
 - [Hello](/commands/general.html#hello)
