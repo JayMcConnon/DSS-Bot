@@ -20,3 +20,9 @@
 
 - Response - A short introduction to how to get the bot into your discord.
 
+## Supported
+
+- Command - `!supported`
+
+- Response - Insanely long DM with all of the [supported games](/supported/)
+
