@@ -10,7 +10,7 @@ status of your game server
 - Options - `names`/ `nonames`  - Defaults to `names` - Toggles player details.
 - Examples - `!query myawesomeserver`
 
-On a successful query you should see a screen that looks like this
+On a successful query you should see a reply from the bot that looks like this
 
 ![Successful query](/images/guide/servercommands/successful-with-names.png)
 
@@ -18,9 +18,12 @@ If there is a problem reaching the server, you will recieve a reply like this
 
 ![Server Offline](/images/guide/servercommands/server-offline.png)
 
-::: tip Showing offline all the time?
+::: warning Showing offline all the time?
 Check the details of the server added, double check the port that you have inputted is the game 
 port configured in the game/voice server.
+:::
+::: tip Querying with no arguments
+If you don't supply a name to the bot, it will ask you to provide one in a reply.
 :::
 
 ## Show servers
@@ -52,10 +55,26 @@ port configured in the game/voice server.
     they query the game/voice server (This will be optional and have a nice default image in future.)
     
     
-Assuming everything was entered incorrectly you will get a message back that will confirm the details of your new server.
+Assuming everything was entered correctly you will get a message back that will confirm the details of your new server.
 It will show you a preview of what the image will look like in the response (Although it will be larger in the preview).
 
 ::: tip What is next?
 Check out the [`!query` command](/commands/serverstatus.html#server-query)
+:::
+
+## Delete a server
+
+- Command - `!server-delete`
+- Aliases - `sdel, sd, delete-server, serverdelete, deleteserver`
+- Response - Confirmation of deletion
+- Arguments - `name` given to the server when adding it to the bot
+- Examples - `!server-delete csgosurf`
+
+::: warning Only from your discord server
+This command must be ran from your discord server, due to the fact that is what the game server details are stored against.
+The bot will prompt you to enter the name if none is provided.
+:::
+
+
 
 
