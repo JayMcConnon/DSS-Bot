@@ -69,6 +69,10 @@ module.exports = {
           '/commands/',
           '/commands/general.html'
       ],
+      '/commands/': [
+          '/',
+          '/guide/',
+      ],
     },
   },
 
