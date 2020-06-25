@@ -285,7 +285,7 @@ If you do not wish to run the plugin, or do not require details such as channel 
 you can use the 'mumbleping' server type instead, which uses a less accurate but more reliable solution
 
 ### Nadeo (ShootMania / TrackMania / etc)
-The server must have xmlrpc enabled, and you must pass the xmlrpc port to GameDig, not the connection port.
+The server must have xmlrpc enabled, and you must pass the xmlrpc port to DSS-Bot, not the connection port.
 You must have a user account on the server with access level User or higher.
 Pass the login into to GameDig with the additional options: login, password
 
