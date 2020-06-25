@@ -52,7 +52,12 @@ module.exports = {
         link: 'https://discord.gg/J3ufCA2'
       }
     ],
-    sidebar: {},
+    sidebar: {
+      '/' : [
+          '/guide/',
+          '/supported/',
+      ],
+    },
   },
 
   /**

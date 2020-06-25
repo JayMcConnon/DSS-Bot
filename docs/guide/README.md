@@ -8,7 +8,7 @@ sidebar: auto
 
 ::: tip Not long now!
 Getting started with DSS-Bot is easy and you can be up
-and running in no 1 minute or less!
+and running in 1 minute or less!
 :::
 
 ## Installation
@@ -23,10 +23,6 @@ you want to add the bot to
 - You should be presented with a page like this 
 
 ![Discord-page](/images/guide/installondiscord.png)
-
-::: tip Tip
-Make sure you have the `MANAGE_SERVER` permission to add the bot to your server
-:::
 
 Once you have authorised this page, the bot will be 
 in your server and ready to use :thumbsup:
