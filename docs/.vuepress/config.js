@@ -62,21 +62,8 @@ module.exports = {
           '/supported/',
           '/commands/',
           '/commands/general.html',
-          '/commands/serverstatus.html'
-      ],
-      '/guide/': [
-          '/',
-          '/supported/',
-          '/commands/',
-          '/commands/general.html',
-          '/commands/serverstatus.html'
-      ],
-      '/commands/': [
-          '/',
-          '/guide/',
-          '/commands/',
-          '/commands/general.html',
-          '/commands/serverstatus.html'
+          '/commands/serverstatus.html',
+          '/commands/moderation.html',
       ],
     },
   },

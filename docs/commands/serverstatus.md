@@ -13,7 +13,9 @@ against.
 status of your game server.
 - Arguments - `name` given to server when adding it to the bot. 
 - Options - `names`/ `nonames`  - Defaults to `names` - Toggles player details.
-- Examples - `!query myawesomeserver`
+- Examples 
+    - `!query myawesomeserver`
+- Permissions - Must have the `MANAGE_GUILD` permission to use this command.
 
 On a successful query you should see a reply from the bot that looks like this..
 
@@ -36,7 +38,17 @@ If you don't supply a name to the bot, it will ask you to provide one in a reply
 - Command - `!servers`
 - Aliases - `sas, show-all-servers, show-servers, servers, showservers, showallservers, showservers`
 - Response - The currently saved servers against your guild with descriptions and connection info.
-- Examples - `!show-servers !sas !show-all-servers !servers`
+- Examples 
+    - `!servers`
+    - `!show-servers`
+    - `!sas`
+    - `!show-all-servers`
+- Permissions - You do not need any permissions to use this command
+
+::: tip Help your players!
+This command will show a summary of all your servers, and for that reason, you are encouraged to put a concise but 
+useful description for your servers when adding them.
+:::
 
 ## Add a server
 
@@ -58,8 +70,13 @@ If you don't supply a name to the bot, it will ask you to provide one in a reply
     this description will be displayed to them in the list. 
     -  `image url` - This image will be shown to in the response to the users of the bot when
     they query the game/voice server (This will be optional and have a nice default image in future).
-    
-    
+
+::: tip Long commands!
+All commands can be used by just simply not putting anything after the command i.e `!server-add` and waiting for the 
+bot to prompt you for a reply. I highly suggest this with this command as it will give you 30 seconds to fill in each
+answer..
+:::
+
 Assuming everything is entered correctly you will get a message back that will confirm the details of your new server.
 It will show you a preview of what the image will look like in the response (Although it will be larger in the preview).
 
