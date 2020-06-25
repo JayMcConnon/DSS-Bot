@@ -34,6 +34,7 @@ module.exports = {
     displayAllHeaders: true,
     lastUpdated: true,
     smoothScroll: true,
+    logo: '/images/robot.png',
     nav: [
       {
         text: 'Install',
