@@ -305,6 +305,6 @@ For teamspeak 3 queries to work correctly, the following permissions must be ava
  * b_virtualserver_channelgroup_list
 
 ### Terraria
-Requires tshock server mod, and a REST user token, which can be passed to GameDig with the
-additional option: token
+Requires tshock server mod, and a REST user token, which can be passed to DSS-Bot with the
+additional option: token (Will be added in future update)
 
