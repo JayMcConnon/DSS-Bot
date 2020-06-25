@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/DSS-BOT-LARGE.PNG
 tagline: Get help with using DSS-bot and it's features.
-actionText: Quick Start →
+actionText: Get Started →
 actionLink: /guide/
 features:
 - title: Over 250 games and voice servers

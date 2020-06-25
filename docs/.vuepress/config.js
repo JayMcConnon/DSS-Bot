@@ -27,7 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'JayMcConnon/DSS-Bot',
+    repo: '',
     editLinks: false,
     docsDir: 'docs',
     editLinkText: '',
@@ -40,7 +40,7 @@ module.exports = {
         link: 'https://discordapp.com/oauth2/authorize?client_id=720731226977075281&scope=bot&permissions=8',
       },
       {
-        text: 'Guide',
+        text: 'Get Started',
         link: '/guide/',
       },
       {
@@ -50,12 +50,24 @@ module.exports = {
       {
         text: 'Official Discord',
         link: 'https://discord.gg/J3ufCA2'
+      },
+      {
+        text: 'Report an Issue',
+        link: 'https://github.com/JayMcConnon/DSS-Bot/issues'
       }
     ],
     sidebar: {
       '/' : [
           '/guide/',
           '/supported/',
+          '/commands/',
+          '/commands/general.html'
+      ],
+      '/guide/': [
+          '/',
+          '/supported/',
+          '/commands/',
+          '/commands/general.html'
       ],
     },
   },

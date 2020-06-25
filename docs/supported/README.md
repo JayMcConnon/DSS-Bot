@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Supported Games
 
 ## Games and Voice Servers List

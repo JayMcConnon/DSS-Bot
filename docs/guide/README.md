@@ -1,7 +1,5 @@
 ---
 title: Getting Started
-lang: en-US
-sidebar: auto
 ---
 
 # Quick Start
@@ -68,7 +66,13 @@ or [join the discord](https://discord.gg/J3ufCA2)
 
 ::: warning Note about some commands
 You will need to run most commands relating to saving values against 
-your discord server, from within a text channel within your discord channel. 
+your discord server, from within a text channel within your discord server.
+
+This includes: 
+- Server Add
+- Server Delete
+- Server Query
+- Moderation commands
 
 If you don't want to spam your users, i suggest creating a channel to interact with your bot with non public permissions.
 :::
