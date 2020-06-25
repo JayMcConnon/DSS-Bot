@@ -55,6 +55,7 @@ useful description for your servers when adding them.
 - Command - `!add-server`
 - Aliases - `sa, add-server, serveradd, addserver`
 - Response - A series of questions prompting you to add a server to the bot (Saved against your discord server).
+- Permissions - Must have the `MANAGE_GUILD` permission to use this command.
 - Arguments - 
     - `name` - name used to query the server. Must be one word and it is suggested that you keep it short as you 
     will use this to query the gameserver in question (work smarter not harder...).
@@ -91,6 +92,7 @@ Check out the [`!query` command](/commands/serverstatus.html#server-query)
 - Response - Confirmation of deletion
 - Arguments - `name` given to the server when adding it to the bot
 - Examples - `!server-delete csgosurf`
+- Permissions - Must have the `MANAGE_GUILD` permission to use this command.
 
 ::: warning Only from your discord server
 All commands on this page must be run from your discord server only due to that being what the bot stores the information
