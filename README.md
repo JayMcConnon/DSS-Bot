@@ -1,13 +1,10 @@
-# dssbotdocs
+# DSS-Bot public Issues tracker
 
-> Docs for DSS-Bot
+![DSS-Bot Logo](https://docs.dss-bot.tech/images/DSS-BOT-BLUE.PNG)
 
-## Development
 
-```bash
-yarn dev
-yarn build
-```
+This page is here to hold the [docs](https://docs.dss-bot.tech) for [DSS-Bot](https://dss-bot.tech)
 
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
+If you have an issue with the bot, please join the [Discord](https://discord.gg/J3ufCA2)
 
+Alternatively, you can leave an issue on the [issues](https://github.com/JayMcConnon/DSS-Bot/issues)
