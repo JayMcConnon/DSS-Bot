@@ -9,3 +9,4 @@
 - [Query Server](/commands/serverstatus.html#server-query)
 - [Show Servers](/commands/serverstatus.html#show-servers)
 - [Add a server](/commands/serverstatus.html#add-a-server)
+- [Delete a server](/commands/serverstatus.html#delete-a-server)
