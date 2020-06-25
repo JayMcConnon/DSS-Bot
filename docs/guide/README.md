@@ -76,3 +76,12 @@ This includes:
 
 If you don't want to spam your users, i suggest creating a channel to interact with your bot with non public permissions.
 :::
+
+## Using commands
+
+All commands use the prefix of `!` to let the bot know you are using a command.
+The only exception to this is that you can tag the bot using `@` and then use the command without a prefix for example
+```bash
+@DSS-Bot query csgo
+```
+For more info on available commands visit the [commands](/commands/) page.
