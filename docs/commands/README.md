@@ -7,3 +7,5 @@
 
 ## Server Status Commands
 - [Query Server](/commands/serverstatus.html#server-query)
+- [Show Servers](/commands/serverstatus.html#show-servers)
+- [Add a server](/commands/serverstatus.html#add-a-server)
