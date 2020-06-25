@@ -53,6 +53,10 @@ module.exports = {
         link: 'https://discord.gg/J3ufCA2'
       },
       {
+        text: 'Status',
+        link: 'https://8e772e21-402f-4e97-a47f-882a3957d2c5.site.hbuptime.com/'
+      },
+      {
         text: 'Report an Issue',
         link: 'https://github.com/JayMcConnon/DSS-Bot/issues'
       }
