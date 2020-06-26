@@ -12,10 +12,11 @@ against.
 - Response - A message that will tell you allot of information about the 
 status of your game server.
 - Arguments - `name` given to server when adding it to the bot. 
-- Options - `names`/ `nonames`  - Defaults to `names` - Toggles player details.
+- Options - `withplayers`  - Defaults to `noplayers` - Tells the query to show player details (if available).
 - Examples 
     - `!query myawesomeserver`
-- Permissions - Must have the `MANAGE_GUILD` permission to use this command.
+    - `!query myawesomeserver withplayers`
+- You do not need any permissions to use this command.
 
 On a successful query you should see a reply from the bot that looks like this..
 
@@ -27,7 +28,7 @@ If there is a problem reaching the server, you will recieve a reply like this..
 
 ::: warning Showing offline all the time?
 Check the details of the server added, double check the port that you have inputted is the game 
-port configured in the game/voice server.
+port configured in the game/voice server. Failing this, you should input the query port for the game (more info on this soon..)
 :::
 ::: tip Querying with no arguments
 If you don't supply a name to the bot, it will ask you to provide one in a reply.
