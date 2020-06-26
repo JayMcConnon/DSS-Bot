@@ -5,7 +5,7 @@ title: Getting Started
 # Quick Start
 
 ::: tip Not long now!
-Getting started with DSS-Bot is easy and you can be up
+Getting started with DSS-Bot is easy. You can be up
 and running in 1 minute or less!
 :::
 
@@ -43,7 +43,7 @@ identify the game to the bot.
 Fire the following command
 `!add-server`
 
-And the bot will start to ask you some questions abou the server you want to add.
+And the bot will start to ask you some questions about the server you want to add.
 
 - Name
 ::: warning Be careful about the name!

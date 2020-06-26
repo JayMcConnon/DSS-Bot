@@ -24,5 +24,20 @@
 
 - Command - `!supported`
 
-- Response - Insanely long DM with all of the [supported games](/supported/)
+- Response - Will return a link to the [supported games](/supported/)
 
+## Docs
+
+- Comand - `!docs`
+
+- Aliases - `!documentation`
+
+- Response - Will return a link to this documentation site.
+
+## Discord
+
+- Command - `!discord`
+
+- Aliases - `joinds`
+
+- Response - Will return an invite to the discord.
