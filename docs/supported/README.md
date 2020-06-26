@@ -305,5 +305,8 @@ For teamspeak 3 queries to work correctly, the following permissions must be ava
 
 ### Terraria
 Requires tshock server mod, and a REST user token, which can be passed to DSS-Bot with the
-additional option: token (Will be added in future update)
+additional option: token 
+:::warning Coming soon
+This feature is being worked on (If you need me to get to it quicker let me know in the discord.)
+:::
 
