@@ -41,3 +41,11 @@
 - Aliases - `joinds`
 
 - Response - Will return an invite to the discord.
+
+## About 
+
+- Command - `!about`
+
+- Aliases - `!information`
+
+- Response - Tells you a bit about the bot and how to get started using it.
