@@ -287,7 +287,10 @@ you can use the 'mumbleping' server type instead, which uses a less accurate but
 ### Nadeo (ShootMania / TrackMania / etc)
 The server must have xmlrpc enabled, and you must pass the xmlrpc port to DSS-Bot, not the connection port.
 You must have a user account on the server with access level User or higher.
-Pass the login into to GameDig with the additional options: login, password
+Pass the login into to DSS-Bot with the additional options: login, password
+:::warning Coming soon
+This feature is being worked on (If you need me to get to it quicker let me know in the discord.)
+:::
 
 ### <a name="teamspeak3"></a>TeamSpeak 3
 For teamspeak 3 queries to work correctly, the following permissions must be available for the guest server group:
