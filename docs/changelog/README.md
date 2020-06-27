@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.1.0 (27/06/2020)
+
+#### Enhancements
+
+- !changelog command invites users to view the releases channel in discord or a link to the changelog page
+
+#### Documentation Changes
+
+- /changelog shows changelog for the bot
+
+---
+
 ## v1.0.0 (27/06/2020)
 
 #### Enhancements
