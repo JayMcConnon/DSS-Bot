@@ -49,6 +49,10 @@ module.exports = {
         link: '/guide/',
       },
       {
+        text: 'Changelog',
+        link: '/changelog/'
+      },
+      {
         text: 'Supported Games',
         link: '/supported/'
       },
@@ -66,6 +70,7 @@ module.exports = {
       }
     ],
     sidebar: {
+      collapsible: true,
       '/' : [
           '/guide/',
           '/supported/',
