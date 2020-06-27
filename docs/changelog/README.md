@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.1 (27/06/2020)
+
+#### Bug Fixes
+
+- Fix changelog command title showing DSS-Bot-Docs instead of changelog
+
+---
+
 ## v1.1.0 (27/06/2020)
 
 #### Enhancements
