@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.2.0 (28/06/2020)
+
+#### Enhancements
+
+- Internal announce command to announce to releases channel in public discord
+
+#### Bug Fixes
+
+- Erronious Class names updated to avoid collisions in general commands
+
+---
+
 ## v1.1.1 (27/06/2020)
 
 #### Bug Fixes
