@@ -12,7 +12,7 @@ and running in 1 minute or less!
 ## Installation
 
 ::: warning Before you start...
-Make sure you have `MANAGE_SERVERS` permission in the discord server
+Make sure you have `MANAGE_GUILD` permission in the discord server
 you want to add the bot to
 :::
 
