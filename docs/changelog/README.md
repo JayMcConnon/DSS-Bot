@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.3.0 (28/06/2020)
+
+#### Command Changes
+
+- !invitedev invites developer to the discord that is having issues using the bot
+
+#### Documentation Changes
+
+- Homepage shows a link to the changelog page.
+
+#### Bug Fixes
+
+- Fix to releases announcement to format correctly finally.
+
+---
+
 ## v1.2.1 (28/06/2020)
 
 #### Bug Fixes
