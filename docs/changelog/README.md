@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.4.0 (28/06/2020)
+
+#### Command Changes
+
+- !version command tells the user the current version of the bot
+
+#### Bug Fixes
+
+- !invitedev now sends invite to correct channel
+
+---
+
 ## v1.3.0 (28/06/2020)
 
 #### Command Changes
