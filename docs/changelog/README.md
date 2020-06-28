@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.2.1 (28/06/2020)
+
+#### Bug Fixes
+
+- Fix erronious markup in releases announcement command
+
+---
+
 ## v1.2.0 (28/06/2020)
 
 #### Enhancements
