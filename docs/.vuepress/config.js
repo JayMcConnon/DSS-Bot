@@ -34,6 +34,10 @@ module.exports = {
     displayAllHeaders: true,
     lastUpdated: true,
     smoothScroll: true,
+    algolia: {
+      apiKey: '630725c901665eb24993f2200cd81a7e',
+      indexName: 'dss-bot'
+    },
     logo: '/images/robot.png',
     nav: [
       {
