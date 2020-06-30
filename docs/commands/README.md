@@ -2,9 +2,12 @@
 
 ## Using commands
 
-You can add the prefix of ! to any of the follow commands to use them. Click the links to see full documentation of how each command
-works. 
+Check out any of the pages below, relating to each specific command group and command within it.
 
+Each command will contain its main command, aliases, examples, arguments, and if applicable, notes relating to permissions.
+
+
+### Mentioning the bot
 If you mention the bot with @ and selecting DSS-Bot, you can use the command without the prefix like so
 
 ```bash
