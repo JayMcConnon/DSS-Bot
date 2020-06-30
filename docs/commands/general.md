@@ -75,7 +75,7 @@ on a discord server, not for use on general commands. Help on this can be found 
 I have a private repository that the bot code lives in, and to maintain a publicly available
 changelog that is easy for you guys to access, actually took a little more work than you would think because of this.
 If you happen to stumble across this documentation because of interest in this and want to read more about how I achieved this, you can visit my article on 
-[dev.to](https://dev.to/jaymcconnon/maintaining-a-public-changelog-from-a-private-github-repo-with-gren-and-vuepress-eli)
+[dev.to](https://dev.to/jaymcconnon/maintaining-a-public-changelog-from-a-private-github-repo-with-gren-and-vuepress-eli).
 :::
 
 ## Help 

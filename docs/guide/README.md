@@ -38,7 +38,7 @@ The search within the docs is powerful, so go ahead and search for a command by 
 bring up the specific page for that command with a ton of information on how to use it.
 :::
 
-Taking an example from that page and using the [!add-server](/commands/serverstatus.html#show-servers) command
+Taking an example from that page and using the [!add-server](/commands/serverstatus.html#add-a-server) command
 
 We must use the `shortcode` of the game to reference it to the bot
 
