@@ -1,5 +1,16 @@
 # Command Groups
 
+## Using commands
+
+You can add the prefix of ! to any of the follow commands to use them. Click the links to see full documentation of how each command
+works. 
+
+If you mention the bot with @ and selecting DSS-Bot, you can use the command without the prefix like so
+
+```bash
+@DSS-Bot query myserver
+```
+
 ## General
 - [Hello](/commands/general.html#hello)
 - [Ping](/commands/general.html#ping)

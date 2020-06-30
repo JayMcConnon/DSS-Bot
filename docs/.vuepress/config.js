@@ -78,6 +78,7 @@ module.exports = {
       '/' : [
           '/guide/',
           '/supported/',
+          '/help/',
           '/commands/',
           '/commands/general.html',
           '/commands/serverstatus.html',
