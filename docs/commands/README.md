@@ -21,6 +21,9 @@ If you mention the bot with @ and selecting DSS-Bot, you can use the command wit
 - [Docs](/commands/general.html#docs)
 - [Discord](/commands/general.html#discord)
 - [About](/commands/general.html#about)
+- [Invite Developer](/commands/general.html#invite-developer-to-discord)
+- [Version](/commands/general.html#version)
+- [Help](/commands/general.html#help)
 
 ## Server Status
 - [Query Server](/commands/serverstatus.html#server-query)

@@ -89,3 +89,7 @@ If you happen to stumble across this documentation because of interest in this a
 - Examples -
     - `!help`
     - `!help query`
+    
+:::tip Looking to get help?
+If you are looking for human help with the bot and have fallen across this page instead, please see the [how to get help](/help/#how-to-get-help) page.
+:::
