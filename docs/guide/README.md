@@ -27,18 +27,25 @@ in your server and ready to use :thumbsup:
 
 ![Bot-Online](/images/guide/botonline.png)
 
-## Add a server
+## What next?
 
 Once you have the bot in the server, you want to start by adding
 a server to query. This can be be any number of game servers or voice
 servers from the [supported games list](/supported/)
 
-Taking an example from that page..
+:::tip Find a certain command
+The search within the docs is powerful, so go ahead and search for a command by its name or alias and it will
+bring up the specific page for that command with a ton of information on how to use it.
+:::
 
-Counter-Strike: Global Offensive (2012) - key `csgo	`
+Taking an example from that page and using the [!add-server](/commands/serverstatus.html#show-servers) command
 
-The key of the game is the shortcode that you will use to 
-identify the game to the bot.
+We must use the `shortcode` of the game to reference it to the bot
+
+- Counter-Strike: Global Offensive (2012) 
+    - shortcode - `csgo	`
+
+
 
 Fire the following command
 `!add-server`
@@ -46,6 +53,7 @@ Fire the following command
 And the bot will start to ask you some questions about the server you want to add.
 
 - Name
+
 ::: warning Be careful about the name!
 Because of the way the bot asks for arguments, at the moment,
 the name you give your server should be 1 word and have no spaces.
