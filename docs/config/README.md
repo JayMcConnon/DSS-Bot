@@ -14,7 +14,4 @@ sidebar: auto
 - Type: `string`
 - Default: `/`
 
-## baz
 
-- Type: `string`
-- Default: `/`
