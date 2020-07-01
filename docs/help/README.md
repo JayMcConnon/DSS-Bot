@@ -34,9 +34,11 @@ into the search and it will give you a few options of the last few versions
 
 ## If you are a discord server manager
 
-There is a command built into the bot that is restricted to the use of people with the `MANAGE_GUILD`
+There is a command built into the bot to request help directly in your server. Use of this is restricted to the use of people with the `MANAGE_GUILD`
 permission, that will generate an invite to your discord and DM it to me. If you are asking for help that requires I debug
 something inside of your discord server, you can use this to generate this one time use invitation that is sent directly into the official discord.
+
+ Read more about the [Invite Developer command](/commands/general.html#invite-developer-to-discord).
 
 Developers and staff have access to a range of helpful things to help debug getting the bot setup to query your servers.
 
