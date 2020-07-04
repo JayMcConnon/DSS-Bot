@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'DSS-Bot Documentation',
+  title: 'DSS-Bot Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -45,20 +45,26 @@ module.exports = {
         link: 'https://dss-bot.tech',
       },
       {
-        text: 'Install',
-        link: 'https://discordapp.com/oauth2/authorize?client_id=720731226977075281&scope=bot&permissions=8',
+        text: "Starting Links",
+        items:[
+          {
+            text: 'Install',
+            link: 'https://discordapp.com/oauth2/authorize?client_id=720731226977075281&scope=bot&permissions=8',
+          },
+          {
+            text: 'Get Started',
+            link: '/guide/',
+          },
+          {
+            text: 'Supported Games',
+            link: '/supported/'
+          },
+        ],
       },
-      {
-        text: 'Get Started',
-        link: '/guide/',
-      },
+
       {
         text: 'Changelog',
         link: '/changelog/'
-      },
-      {
-        text: 'Supported Games',
-        link: '/supported/'
       },
       {
         text: 'Official Discord',
