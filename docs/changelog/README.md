@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.4.1 (05/07/2020)
+
+#### Command Changes
+
+- !adminquery will allow discord server managers to query a private server
+- discord managers can use !server-toggle-active to make a server public or private for query
+- discord managers can make each server active/inactive for public query
+
+#### Documentation Changes
+
+- Documentation search is enchanced using algolia search
+- Documentation page shows new commands relating getting help
+- section on how to get help available in the docs
+
+---
+
 ## v1.4.0 (28/06/2020)
 
 #### Command Changes
